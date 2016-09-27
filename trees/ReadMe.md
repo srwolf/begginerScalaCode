@@ -1,5 +1,5 @@
-### La siguiente clase recorre del modo mas básico una un árbol genérico.
+### The next code traverse in the most basic way a generic tree.
 
-* El png del repositorio muestra una imagen cuyo contenido es el modelado por la clase **GeneralTree.scala**
+* the image(png) models a tree and its contents  **GeneralTree.scala**
 
 http://mojitoverde.blogspot.com
