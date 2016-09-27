@@ -1,0 +1,3 @@
+# Ignore list for Target 3001!, a PCB layout tool
+
+/target/*
