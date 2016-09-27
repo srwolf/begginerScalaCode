@@ -8,9 +8,12 @@
 * scala
 * sbt 
 
-** installing scala for linux https://github.com/ldipotetjob/installer/blob/master/CentosScalainstaller **
-** installing scala for osx https://github.com/ldipotetjob/installer/blob/master/OSXScalaInstaller **
-** installing sbt in all OS http://www.scala-sbt.org/download.html **
+**installing scala for linux:** https://github.com/ldipotetjob/installer/blob/master/CentosScalainstaller 
+
+**installing scala for osx:** https://github.com/ldipotetjob/installer/blob/master/OSXScalaInstaller
+
+**installing sbt in all OS:** http://www.scala-sbt.org/download.html
+
 
 
 
