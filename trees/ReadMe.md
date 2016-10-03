@@ -1,8 +1,9 @@
 ### The next code traverse in the most basic way a generic tree.
 
 * the image(png) models a tree and its contents  **GeneralTree.scala**
+* Scala_Developer_Tech_Test.pdf **the exam about generics tree's solution**
 
-#### For runnning this project you need in local:
+#### For runnning this project, you need in local:
 
 * jdk 1.7 +
 * scala
