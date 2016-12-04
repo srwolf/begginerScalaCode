@@ -1,0 +1,60 @@
+hometeam:Crystal Palace ,awayteam:Tottenham Hotspur ,location: Estadio: Selhurst Park, date:2013-08-18T14:30:00+02:00
+hometeam:Newcastle ,awayteam:West Ham ,location: Estadio: St. James'' Park, date:2013-08-24T16:00:00+02:00
+hometeam:Man. Utd ,awayteam:Chelsea ,location: Estadio: Old Trafford, date:2013-08-26T21:00:00+02:00
+hometeam:Aston Villa ,awayteam:Liverpool ,location: Estadio: Villa Park, date:2013-08-24T18:30:00+02:00
+hometeam:Everton ,awayteam:West Bromwich Albion ,location: Estadio: Goodison Park, date:2013-08-24T16:00:00+02:00
+hometeam:Chelsea ,awayteam:Aston Villa ,location: Estadio: Stamford Bridge, date:2013-08-21T20:45:00+02:00
+hometeam:Crystal Palace ,awayteam:Sunderland ,location: Estadio: Selhurst Park, date:2013-08-31T18:30:00+02:00
+hometeam:Stoke City ,awayteam:Crystal Palace ,location: Estadio: bet365 Stadium, date:2013-08-24T16:00:00+02:00
+hometeam:Hull City ,awayteam:Norwich City ,location: Estadio: Kingston Communications Stadium, date:2013-08-24T16:00:00+02:00
+hometeam:Liverpool ,awayteam:Stoke City ,location: Estadio: Anfield, date:2013-08-17T13:45:00+02:00
+hometeam:Cardiff City ,awayteam:Man. City ,location: Estadio: Cardiff City Stadium, date:2013-08-25T17:00:00+02:00
+hometeam:Tottenham Hotspur ,awayteam:Swansea City ,location: Estadio: White Hart Lane, date:2013-08-25T17:00:00+02:00
+hometeam:Fulham ,awayteam:Arsenal ,location: Estadio: Craven Cottage, date:2013-08-24T13:45:00+02:00
+hometeam:Southampton ,awayteam:Sunderland ,location: Estadio: St. Mary''s Stadium, date:2013-08-24T16:00:00+02:00
+hometeam:West Ham ,awayteam:Stoke City ,location: Estadio: London Olympic Stadium, date:2013-08-31T16:00:00+02:00
+hometeam:Norwich City ,awayteam:Everton ,location: Estadio: Carrow Road, date:2013-08-17T16:00:00+02:00
+hometeam:West Ham ,awayteam:Cardiff City ,location: Estadio: London Olympic Stadium, date:2013-08-17T16:00:00+02:00
+hometeam:Cardiff City ,awayteam:Everton ,location: Estadio: Cardiff City Stadium, date:2013-08-31T16:00:00+02:00
+hometeam:Swansea City ,awayteam:Man. Utd ,location: Estadio: Liberty Stadium, date:2013-08-17T18:30:00+02:00
+hometeam:Arsenal ,awayteam:Aston Villa ,location: Estadio: Emirates Stadium, date:2013-08-17T16:00:00+02:00
+hometeam:Sunderland ,awayteam:Fulham ,location: Estadio: Stadium of Light, date:2013-08-17T16:00:00+02:00
+hometeam:Chelsea ,awayteam:Hull City ,location: Estadio: Stamford Bridge, date:2013-08-18T17:00:00+02:00
+hometeam:West Bromwich Albion ,awayteam:Swansea City ,location: Estadio: The Hawthorns, date:2013-09-01T14:30:00+02:00
+hometeam:Man. City ,awayteam:Newcastle ,location: Estadio: Etihad Stadium, date:2013-08-19T21:00:00+02:00
+hometeam:West Bromwich Albion ,awayteam:Southampton ,location: Estadio: The Hawthorns, date:2013-08-17T16:00:00+02:00
+hometeam:Arsenal ,awayteam:Tottenham Hotspur ,location: Estadio: Emirates Stadium, date:2013-09-01T17:00:00+02:00
+hometeam:Man. City ,awayteam:Hull City ,location: Estadio: Etihad Stadium, date:2013-08-31T13:45:00+02:00
+hometeam:Man. Utd ,awayteam:Swansea City ,location: Estadio: Old Trafford, date:2014-08-16T13:45:00+02:00
+hometeam:Norwich City ,awayteam:Southampton ,location: Estadio: Carrow Road, date:2013-08-31T16:00:00+02:00
+hometeam:Liverpool ,awayteam:Man. Utd ,location: Estadio: Anfield, date:2013-09-01T14:30:00+02:00
+hometeam:Newcastle ,awayteam:Fulham ,location: Estadio: St. James'' Park, date:2013-08-31T16:00:00+02:00
+hometeam:West Ham ,awayteam:Tottenham Hotspur ,location: Estadio: London Olympic Stadium, date:2014-08-16T16:00:00+02:00
+hometeam:Stoke City ,awayteam:Aston Villa ,location: Estadio: bet365 Stadium, date:2014-08-16T16:00:00+02:00
+hometeam:Newcastle ,awayteam:Man. City ,location: Estadio: St. James'' Park, date:2014-08-17T17:00:00+02:00
+hometeam:Burnley ,awayteam:Chelsea ,location: Estadio: Turf Moor, date:2014-08-18T21:00:00+02:00
+hometeam:Queens Park Rangers ,awayteam:Hull City ,location: Estadio: Loftus Road, date:2014-08-16T16:00:00+02:00
+hometeam:Arsenal ,awayteam:Crystal Palace ,location: Estadio: Emirates Stadium, date:2014-08-16T18:30:00+02:00
+hometeam:West Bromwich Albion ,awayteam:Sunderland ,location: Estadio: The Hawthorns, date:2014-08-16T16:00:00+02:00
+hometeam:Liverpool ,awayteam:Southampton ,location: Estadio: Anfield, date:2014-08-17T14:30:00+02:00
+hometeam:Chelsea ,awayteam:Leicester ,location: Estadio: Stamford Bridge, date:2014-08-23T16:00:00+02:00
+hometeam:Hull City ,awayteam:Stoke City ,location: Estadio: Kingston Communications Stadium, date:2014-08-24T14:30:00+02:00
+hometeam:Aston Villa ,awayteam:Newcastle ,location: Estadio: Villa Park, date:2014-08-23T13:45:00+02:00
+hometeam:Southampton ,awayteam:West Bromwich Albion ,location: Estadio: St. Mary''s Stadium, date:2014-08-23T16:00:00+02:00
+hometeam:Man. City ,awayteam:Liverpool ,location: Estadio: Etihad Stadium, date:2014-08-25T21:00:00+02:00
+hometeam:Tottenham Hotspur ,awayteam:Queens Park Rangers ,location: Estadio: White Hart Lane, date:2014-08-24T14:30:00+02:00
+hometeam:Sunderland ,awayteam:Man. Utd ,location: Estadio: Stadium of Light, date:2014-08-24T17:00:00+02:00
+hometeam:Crystal Palace ,awayteam:West Ham ,location: Estadio: Selhurst Park, date:2014-08-23T16:00:00+02:00
+hometeam:Everton ,awayteam:Arsenal ,location: Estadio: Goodison Park, date:2014-08-23T18:30:00+02:00
+hometeam:Swansea City ,awayteam:Burnley ,location: Estadio: Liberty Stadium, date:2014-08-23T16:00:00+02:00
+hometeam:Queens Park Rangers ,awayteam:Sunderland ,location: Estadio: Loftus Road, date:2014-08-30T16:00:00+02:00
+hometeam:Burnley ,awayteam:Man. Utd ,location: Estadio: Turf Moor, date:2014-08-30T13:45:00+02:00
+hometeam:Tottenham Hotspur ,awayteam:Liverpool ,location: Estadio: White Hart Lane, date:2014-08-31T14:30:00+02:00
+hometeam:Newcastle ,awayteam:Crystal Palace ,location: Estadio: St. James'' Park, date:2014-08-30T16:00:00+02:00
+hometeam:Everton ,awayteam:Chelsea ,location: Estadio: Goodison Park, date:2014-08-30T18:30:00+02:00
+hometeam:West Ham ,awayteam:Southampton ,location: Estadio: London Olympic Stadium, date:2014-08-30T16:00:00+02:00
+hometeam:Aston Villa ,awayteam:Hull City ,location: Estadio: Villa Park, date:2014-08-31T14:30:00+02:00
+hometeam:Man. City ,awayteam:Stoke City ,location: Estadio: Etihad Stadium, date:2014-08-30T16:00:00+02:00
+hometeam:Leicester ,awayteam:Arsenal ,location: Estadio: King Power Stadium, date:2014-08-31T17:00:00+02:00
+hometeam:Swansea City ,awayteam:West Bromwich Albion ,location: Estadio: Liberty Stadium, date:2014-08-30T16:00:00+02:00
+> vvcom[3G[Krun ldipotet4[3G[Kcompile
