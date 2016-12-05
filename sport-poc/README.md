@@ -22,6 +22,7 @@ How run our project:
 *run sbt* 
 
 inside sbt console 
+
 *> compile* 
 
 *> run [export-filename]*
