@@ -61,7 +61,7 @@ object Main2 extends App {
 	val out: PrintStream = new PrintStream(fis)
 
 	System.setOut(out)
-
+*/
 
 	/**
 		*
@@ -69,7 +69,7 @@ object Main2 extends App {
 		* http://www.resultados-futbol.com/premier1999/grupo1/jornada1
 		*
 		**/
-
+/*
 	val resultMatch38Season: List[Future[Set[Match]]] = (1996 until 2016).flatMap(
 		year => (1 until 39).map {
 			jornada =>
