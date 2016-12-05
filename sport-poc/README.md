@@ -4,7 +4,7 @@
 
 * Extracts informations from web pages about premier league matches.
 * The web page used in this project is NOT a pattern and have some mistakes, so is just an 
-  example of how implement an scala project and how make an intensive use os jsoup libraries.
+  example of how to implement an scala project and how to make an intensive use of jsoup libraries.
 * Main program: **com.ldg.sport.stats.Main**
 * Core of parser: **com.ldg.sport.stats.ParserHTML**
 
@@ -15,7 +15,7 @@ There are some recomendations for testing cases in:
 **ParserHTMLTest**
 
 
-How run our project:
+How to run our project:
 
 *cd proyect_root_directory*
 
@@ -28,7 +28,7 @@ inside sbt console:
 *> run [export-filename]*
 
 And wait for: 
-[success] XXXXXX indicating tha everything went fine if something was WRONG a Runtime exception will appear 
+[success] XXXXXX indicating that everything was fine, if something was WRONG a Runtime exception will appear 
 in this console.
 
 Notes: 
