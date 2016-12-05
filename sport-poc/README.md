@@ -10,7 +10,7 @@
 
 #### Test Info:
 
-There are some recomendations for testing cases in :
+There are some recomendations for testing cases in:
 
 **ParserHTMLTest**
 
@@ -21,7 +21,7 @@ How run our project:
 
 *run sbt* 
 
-inside sbt console 
+inside sbt console: 
 
 *> compile* 
 
