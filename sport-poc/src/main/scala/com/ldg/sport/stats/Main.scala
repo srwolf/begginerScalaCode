@@ -48,14 +48,20 @@ object Main extends App {
   /**
     * Range of calculations
     * 2016>= beginyear > 1995
-    * 39 >=beginSeas > 0
+    * 39 >=beginSeas > 0 
+    * Full configuration:
+    *
+    * val begYear:Int = 1996 
+    * val endYear:Int = 2016
+    * val begSeas:Int = 1
+    * val endSeas:Int = 39 
     *
     */
 
-  val begYear:Int = 2014 //1996
+  val begYear:Int = 2013 //minor year: 1996
   val endYear:Int = 2016
   val begSeas:Int = 1
-  val endSeas:Int = 4 //39
+  val endSeas:Int = 4 //Maximum number of football days: 39
 
   val resultMatch38Season: List[Future[Set[Match]]] = (begYear until endYear).flatMap(
     year => (begSeas until endSeas).map {
