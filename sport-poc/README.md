@@ -16,9 +16,12 @@ There are some recomendations for testing cases in :
 How run our project:
 
 cd proyect_root_directory
+
 run sbt 
+
 inside sbt console 
 > compile 
+
 > run [export-filename]
 
 And wait for: 
