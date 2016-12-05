@@ -32,6 +32,6 @@ And wait for:
 in this console.
 
 Notes: 
-export-filename: csv file name to export in proyect_root_directory.If you ignore file name a default value 
+export-filename: csv file name to export in proyect_root_directory. If you ignore file name,a default value 
 is assigned: csvFile 
 
