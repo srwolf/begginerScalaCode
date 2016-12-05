@@ -1,3 +1,5 @@
+
+
 ## Project Info: 
 
 * Extracts informations from web pages about premier league matches.
@@ -15,14 +17,14 @@ There are some recomendations for testing cases in :
 
 How run our project:
 
-cd proyect_root_directory
+*cd proyect_root_directory*
 
-run sbt 
+*run sbt* 
 
 inside sbt console 
-> compile 
+*> compile* 
 
-> run [export-filename]
+*> run [export-filename]*
 
 And wait for: 
 [success] XXXXXX indicating tha everything went fine if something was WRONG a Runtime exception will appear 
