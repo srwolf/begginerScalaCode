@@ -73,7 +73,17 @@ object Main extends App {
         }
     }
   ).toList
-
+ 
+   /**
+    * Information exported:
+    *
+    *     homeTeam
+    *     awayTeam
+    *     location [where took place the game]
+    *     date [Match date]
+    *     if you want to add more info, this is the place in the program.
+    */
+  
   def doComplete: PartialFunction[Try[Set[Match]],Unit] = { //
 
     case matches @ Success(_) =>{
