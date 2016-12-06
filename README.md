@@ -1,4 +1,4 @@
-## What does we need, for work: 
+## For any project in this repository you need to install the following softwares: 
 
 Install following software:
 
