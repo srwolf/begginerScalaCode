@@ -8,6 +8,8 @@ class ParserHTMLTest extends FlatSpec with Matchers  {
     * python -m SimpleHTTPServer
     * Start the server under the MOCKED WEBSITE
     *
+    * References to many statics servers: https://gist.github.com/willurd/5720255
+    *
     */
 
   /**
